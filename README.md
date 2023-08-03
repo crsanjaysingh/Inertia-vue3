@@ -1,0 +1,1 @@
+# SSR-Inertia-Vue-Precognitive
